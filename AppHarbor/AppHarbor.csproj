@@ -107,6 +107,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\Entity.cs" />
+    <Compile Include="Models\Event.cs" />
     <Compile Include="Models\Thingy.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
